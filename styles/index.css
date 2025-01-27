@@ -1,6 +1,6 @@
 .logo {
     
-    font-family: montserrat, sans-serif; 
+    font-family:"montserrat", sans-serif; 
     font-style: normal;
     font-weight: bold;
     font-size: 30px;
@@ -16,13 +16,38 @@
 }
 
 .left-title {
-
+    max-width: 495px;
+    width: 100%;
+    margin-top: 203px;
+    margin-left: 200px;
+    font-family:"ramaraja", serif;
+    font-style: normal;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: 2%;
+    color: #1B0A42;
 }
 
 .left-info {
-
+    max-width: 583px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family:"roboto", serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 2%;
+    color: #9A9A9A;
 }
 
 .left-button {
-    
+    width: 152px;
+    height: 63.82px;
+    margin-top: 50px;
+    margin-left: 200px;
+    border-radius: 6;
+    background-color: #A3DC00;
+
+
 }
