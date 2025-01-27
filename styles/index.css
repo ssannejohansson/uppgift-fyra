@@ -4,7 +4,7 @@
     font-style: normal;
     font-weight: bold;
     font-size: 30px;
-    line-height: 1.6;
+    line-height: 48px;
     letter-spacing: -2%;
     color: #0A1B32;
     margin-top: 37px;
@@ -13,6 +13,10 @@
 
 .logo-dot {
     color: #A3DC00;
+}
+
+section {
+    display: inline-block;
 }
 
 .left-title {
@@ -33,7 +37,7 @@
     width: 100%;
     margin-top: 10px;
     margin-left: 200px;
-    font-family:"roboto", serif;
+    font-family: "roboto", serif;
     font-style: normal;
     font-size: 20px;
     line-height: 32px;
@@ -46,8 +50,15 @@
     height: 63.82px;
     margin-top: 50px;
     margin-left: 200px;
-    border-radius: 6;
+    border-radius: 6px;
     background-color: #A3DC00;
-
-
+    font-family: "roboto", serif;
+    font-style: normal;
+    font-weight: bold; 
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 2%;
+    color: #FFFFFF; 
+    border: none;
 }
