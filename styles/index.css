@@ -24,8 +24,9 @@ section {
     width: 100%;
     margin-top: 203px;
     margin-left: 200px;
-    font-family:"ramaraja", serif;
+    font-family: "ramaraja", serif;
     font-style: normal;
+    font-weight: normal;
     font-size: 72px;
     line-height: 76px;
     letter-spacing: 2%;
@@ -39,6 +40,7 @@ section {
     margin-left: 200px;
     font-family: "roboto", serif;
     font-style: normal;
+    font-weight: normal;
     font-size: 20px;
     line-height: 32px;
     letter-spacing: 2%;
@@ -47,7 +49,7 @@ section {
 
 .left-button {
     width: 152px;
-    height: 63.82px;
+    height: 64px;
     margin-top: 50px;
     margin-left: 200px;
     border-radius: 6px;
